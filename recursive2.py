@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def fact(n):
 	return fact_iter(n, 1)
 
